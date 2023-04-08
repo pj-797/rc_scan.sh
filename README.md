@@ -16,5 +16,5 @@ Requires:
   3) Remote Server - Running SSH Service
 
 Note:
-1) Results will be saved in RC_Scan folder.
-2) Activity will be logged at /var/log/rc_scan.log.
+1) Results will be saved in 'RC_Scan' folder.
+2) Activity will be logged at '/var/log/rc_scan.log'.
